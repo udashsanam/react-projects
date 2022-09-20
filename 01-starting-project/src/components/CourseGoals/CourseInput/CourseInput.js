@@ -75,7 +75,7 @@ const CourseInput = props => {
     {/* inside the ` <value> ` treated as string  */}
       {/* one way of using style component  */}
       {/* <FormControl className={!isValid && 'invalid'}> */}
-      passing the prop in styled component 
+      {/* passing the prop in styled component  */}
       <FormControl  invalid = {!isValid}>
         <label >Course Goal</label>
         <input 
